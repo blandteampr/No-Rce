@@ -1,5 +1,6 @@
 Discord : https://discord.gg/ghzCA5qxpP
 
+<img width="977" height="506" alt="image" src="https://github.com/user-attachments/assets/69f353fd-c6f2-4547-b42b-0d59935531fc" />
 
 
 THE "NO RCE" FRAMEWORK: A TECHNICAL DECONSTRUCTION
@@ -9,7 +10,7 @@ THE "NO RCE" FRAMEWORK: A TECHNICAL DECONSTRUCTION
 2. PRIMARY AVOIDANCE VECTORS (How It Does Not Reflect on You)
 This methodology inherently avoids the classic signatures of RATs (Remote Access Trojans) and commodity malware. Since you are not executing payloads in a traditional sense, you evade the core detection mechanisms of:
 
-Signature-based antivirus scanning of binaries. <img width="968" height="505" alt="image" src="https://github.com/user-attachments/assets/ef0448c7-08e5-4eda-9450-9bdf9c803186" />
+Signature-based antivirus scanning of binaries. 
 
 
 Heuristic behavioral analysis looking for malicious process spawning.
