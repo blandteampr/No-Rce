@@ -33,6 +33,9 @@ Linux/macOS: Bash, cron, ssh, awk, sed, python/perl interpreters, package manage
 
 Execution: Commands are issued remotely via legitimate channels (WinRM, SSH, WMI, SMB) or via stolen credentials. No payload is delivered; the "payload" is the command string itself.
 
+<img width="1041" height="418" alt="image" src="https://github.com/user-attachments/assets/12e2a799-831a-40f3-b44f-8e17f5b29887" />
+
+
 B. Memory-Only Techniques & Exploitation
 Achieving code execution without a traditional file drop.
 
